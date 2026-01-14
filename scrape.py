@@ -9,17 +9,14 @@ URL = "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6"
 
 UPD_RE = re.compile(r"^Uppdaterad:\s*(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})$")
 # dispo, lediga, väntande (väntande kan saknas)
-GER_RE = re.compile(r"^Geriatrik:\s*(\d+)\s+(-?\d+)(?:\s+(\d+))?\s*$")
+GER_RE = re.compile(r"^Geriatrik:\s*(\d+)\s+(-?\d+)(?:\s+(\d+))?")
 MSG_RE = re.compile(r"^Meddelande:\s*(.*)$")
 
 def normalize(s: str) -> str:
-    # Gör texten regex-vänlig: ersätt NBSP + ta bort “zero-width”
-    return (
-        s.replace("\xa0", " ")
-         .replace("\u200b", "")
-         .replace("\ufeff", "")
-         .strip()
-    )
+    # Ta bort “zero-width” och BOM, och gör ALL whitespace till enkla mellanslag
+    s = s.replace("\u200b", "").replace("\ufeff", "")
+    s = re.sub(r"\s+", " ", s, flags=re.UNICODE).strip()
+    return s
 
 def fetch_lines() -> list[str]:
     r = requests.get(URL, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
