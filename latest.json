@@ -1,109 +1,109 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-14T13:45:27+00:00",
+  "scraped_at_utc": "2026-01-14T14:00:59+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-01-14 14:40",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-01-14 13:05",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "-1",
+      "Väntande godkända remisser": "1",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-01-14 13:26",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "2",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-01-14 13:46",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-01-14 08:49",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "11",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-14 11:26",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "7",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-01-14 13:18",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "3",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-01-14 08:11",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "6",
+      "Väntande godkända remisser": "5",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-01-14 10:39",
-      "Lediga vårdplatser": "-520",
-      "Väntande godkända remisser": "173",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "2",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-14 10:59",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "3",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-01-14 10:20",
-      "Lediga vårdplatser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-01-14 11:53",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "5",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-01-14 11:53",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-01-13 16:13",
+      "Uppdaterad senast": "",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "-16",
+      "Väntande godkända remisser": "11",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Tiohundra",
-      "Uppdaterad senast": "2026-01-14 08:28",
-      "Lediga vårdplatser": "",
+      "Uppdaterad senast": "",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": ""
     }
