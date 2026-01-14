@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-14T13:40:51+00:00",
+  "scraped_at_utc": "2026-01-14T13:45:27+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -61,8 +61,8 @@
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
       "Uppdaterad senast": "2026-01-14 10:39",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Lediga vårdplatser": "-520",
+      "Väntande godkända remisser": "173",
       "Meddelande": ""
     },
     {
@@ -96,8 +96,8 @@
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
       "Uppdaterad senast": "2026-01-13 16:13",
-      "Lediga vårdplatser": "",
-      "Väntande godkända remisser": "",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "-16",
       "Meddelande": ""
     },
     {
