@@ -41,12 +41,13 @@ def next_nonempty(lines: list[str], start: int, max_ahead: int = 3) -> str | Non
 def parse_units(lines: list[str]) -> list[dict]:
     rows: list[dict] = []
     current: dict | None = None
-    i = 0
+    numbers_done = False  # flagga för varje enhet
 
+    i = 0
     while i < len(lines):
         ln = lines[i]
 
-        # Start på en ny enhet om nästa rad (inom 3 rader) börjar med 'Tel:'
+        # Ny enhet om nästa rad (inom 3 rader) börjar med Tel:
         look = next_nonempty(lines, i + 1, max_ahead=3)
         if look and look.startswith("Tel:"):
             if current:
@@ -58,42 +59,47 @@ def parse_units(lines: list[str]) -> list[dict]:
                 "Väntande godkända remisser": "",
                 "Meddelande": "",
             }
+            numbers_done = False
             i += 1
             continue
 
         if current:
-            # Uppdaterad-raden
-            m = UPD_RE.match(ln)
-            if m:
-                current["Uppdaterad senast"] = m.group(1)
+            # Hoppa över uppdaterad- och meddelande-rader
+            if ln.startswith("Uppdaterad:"):
+                m = UPD_RE.match(ln)
+                if m:
+                    current["Uppdaterad senast"] = m.group(1)
+                i += 1
+                continue
+            if ln.startswith("Meddelande:"):
+                current["Meddelande"] = ln.split(":", 1)[1].strip()
                 i += 1
                 continue
 
-            # Meddelande-raden
-            m = MSG_RE.match(ln)
-            if m:
-                current["Meddelande"] = m.group(1).strip()
+            # Hoppa över övriga hjälprader
+            skip_keywords = ("Tel:", "Jourtid", "Geografiskt", "Geriatrik:", "Enhet", "Prio")
+            if any(k in ln for k in skip_keywords):
                 i += 1
                 continue
 
-            # Rad med enbart tal: disponibla lediga [väntande]
-            if re.match(r"^-?\d+(?:\s+-?\d+){1,2}$", ln):
-                nums = [int(x) for x in ln.split()]
-                # nums[0] = disponibla (ignoreras)
-                current["Lediga vårdplatser"] = str(nums[1])
-                current["Väntande godkända remisser"] = str(nums[2]) if len(nums) > 2 else "0"
-                i += 1
-                continue
+            # Hitta talraden, men bara om vi inte redan sparat siffror för enheten
+            if not numbers_done:
+                # extrahera heltal
+                nums = [int(x) for x in re.findall(r"-?\d+", ln) if abs(int(x)) < 1000]
+                # om minst två små tal: (disponibla, lediga [, väntande])
+                if len(nums) >= 2:
+                    current["Lediga vårdplatser"] = str(nums[1])
+                    current["Väntande godkända remisser"] = str(nums[2]) if len(nums) > 2 else "0"
+                    numbers_done = True
+                    i += 1
+                    continue
 
         i += 1
 
     if current:
         rows.append(current)
 
-    # Sortera enheter för stabil output
     return sorted(rows, key=lambda x: x["Geriatrikenhet"])
-
-
 def write_outputs(rows: list[dict]) -> None:
     with open("latest.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
