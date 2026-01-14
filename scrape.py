@@ -1,4 +1,3 @@
-import re
 import csv
 import json
 import requests
@@ -7,99 +6,104 @@ from datetime import datetime, timezone
 
 URL = "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6"
 
-UPD_RE = re.compile(r"^Uppdaterad:\s*(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})$")
-# dispo, lediga, väntande (väntande kan saknas)
-GER_RE = re.compile(r"^Geriatrik:\s*(\d+)\s+(-?\d+)(?:\s+(\d+))?")
-MSG_RE = re.compile(r"^Meddelande:\s*(.*)$")
 
-def normalize(s: str) -> str:
-    # gör ALL whitespace normal + ta bort osynliga tecken
-    s = s.replace("\u200b", "").replace("\ufeff", "")
-    s = re.sub(r"\s+", " ", s, flags=re.UNICODE).strip()
-    return s
-
-def fetch_lines() -> list[str]:
-    r = requests.get(URL, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+def fetch_html(url: str) -> str:
+    r = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
     r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
-    text = soup.get_text("\n", strip=True)
+    return r.text
 
-    lines = []
-    for ln in text.split("\n"):
-        ln = normalize(ln)
-        if ln:
-            lines.append(ln)
-    return lines
 
-def next_nonempty(lines: list[str], start: int, max_ahead: int = 3) -> str | None:
-    # Leta efter nästa rad inom några steg (för att hantera ibland tomrad mellan namn och Tel:)
-    for j in range(start, min(len(lines), start + max_ahead + 1)):
-        if lines[j]:
-            return lines[j]
-    return None
+def _clean(s: str) -> str:
+    return " ".join((s or "").replace("\u200b", "").replace("\ufeff", "").split()).strip()
 
-def parse_units(lines: list[str]) -> list[dict]:
-    rows: list[dict] = []
-    current: dict | None = None
-    numbers_done = False  # flagga för varje enhet
 
-    i = 0
-    while i < len(lines):
-        ln = lines[i]
+def parse_units_from_html(html: str) -> list[dict]:
+    """
+    Robust parsing based on the table structure you showed:
 
-        # Ny enhet om nästa rad (inom 3 rader) börjar med Tel:
-        look = next_nonempty(lines, i + 1, max_ahead=3)
-        if look and look.startswith("Tel:"):
-            if current:
-                rows.append(current)
-            current = {
-                "Geriatrikenhet": ln,
-                "Uppdaterad senast": "",
-                "Lediga vårdplatser": "",
-                "Väntande godkända remisser": "",
-                "Meddelande": "",
-            }
-            numbers_done = False
-            i += 1
+    - Unit name is in the <tr> above the "Geriatrik:" row:
+        <span class="dataheader">Löwetgeriatriken</span>
+
+    - The "Geriatrik:" row has four <td>:
+        td[0] = "Geriatrik:"
+        td[1] = disponibla
+        td[2] = lediga
+        td[3] = väntande
+
+    - "Uppdaterad:" and "Meddelande:" (if present) are in rows between the unit row and the "Geriatrik:" row.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    seen = set()
+
+    # Find all cells that are exactly "Geriatrik:" (these belong to the capacity row)
+    for ger_td in soup.find_all("td", id="rightSide"):
+        if _clean(ger_td.get_text()) != "Geriatrik:":
             continue
 
-        if current:
-            # Hoppa över uppdaterad- och meddelande-rader
-            if ln.startswith("Uppdaterad:"):
-                m = UPD_RE.match(ln)
-                if m:
-                    current["Uppdaterad senast"] = m.group(1)
-                i += 1
-                continue
-            if ln.startswith("Meddelande:"):
-                current["Meddelande"] = ln.split(":", 1)[1].strip()
-                i += 1
-                continue
+        ger_tr = ger_td.find_parent("tr")
+        if not ger_tr:
+            continue
 
-            # Hoppa över övriga hjälprader
-            skip_keywords = ("Tel:", "Jourtid", "Geografiskt", "Geriatrik:", "Enhet", "Prio")
-            if any(k in ln for k in skip_keywords):
-                i += 1
-                continue
+        tds = ger_tr.find_all("td", recursive=False)
+        if len(tds) < 4:
+            # Sometimes extra wrappers exist; fall back to recursive
+            tds = ger_tr.find_all("td")
+        if len(tds) < 4:
+            continue
 
-            # Hitta talraden, men bara om vi inte redan sparat siffror för enheten
-            if not numbers_done:
-                # extrahera heltal
-                nums = [int(x) for x in re.findall(r"-?\d+", ln) if abs(int(x)) < 1000]
-                # om minst två små tal: (disponibla, lediga [, väntande])
-                if len(nums) >= 2:
-                    current["Lediga vårdplatser"] = str(nums[1])
-                    current["Väntande godkända remisser"] = str(nums[2]) if len(nums) > 2 else "0"
-                    numbers_done = True
-                    i += 1
-                    continue
+        disponibla = _clean(tds[1].get_text())
+        lediga = _clean(tds[2].get_text())
+        vantande = _clean(tds[3].get_text())
 
-        i += 1
+        # Unit row is the previous <tr> sibling that has span.dataheader
+        unit_tr = ger_tr.find_previous_sibling("tr")
+        while unit_tr:
+            if unit_tr.find("span", class_="dataheader"):
+                break
+            unit_tr = unit_tr.find_previous_sibling("tr")
 
-    if current:
-        rows.append(current)
+        if not unit_tr:
+            continue
 
-    return sorted(rows, key=lambda x: x["Geriatrikenhet"])
+        unit_span = unit_tr.find("span", class_="dataheader")
+        unit_name = _clean(unit_span.get_text()) if unit_span else ""
+        if not unit_name:
+            continue
+
+        # Gather "Uppdaterad:" and "Meddelande:" from rows between unit_tr and ger_tr
+        updated = ""
+        message = ""
+        row = unit_tr.find_next_sibling("tr")
+        while row and row != ger_tr:
+            txt = _clean(row.get_text(" ", strip=True))
+            if txt.startswith("Uppdaterad:"):
+                updated = _clean(txt.split(":", 1)[1])
+            elif txt.startswith("Meddelande:"):
+                message = _clean(txt.split(":", 1)[1])
+            row = row.find_next_sibling("tr")
+
+        # Avoid duplicates if the page contains repeated structures
+        key = (unit_name, updated, lediga, vantande, message)
+        if key in seen:
+            continue
+        seen.add(key)
+
+        out.append(
+            {
+                "Geriatrikenhet": unit_name,
+                "Uppdaterad senast": updated,
+                "Lediga vårdplatser": lediga,
+                "Väntande godkända remisser": vantande,
+                "Meddelande": message,
+            }
+        )
+
+    # Stable ordering
+    out.sort(key=lambda r: r["Geriatrikenhet"])
+    return out
+
+
 def write_outputs(rows: list[dict]) -> None:
     with open("latest.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
@@ -123,10 +127,13 @@ def write_outputs(rows: list[dict]) -> None:
     with open("latest.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
+
 def main():
-    lines = fetch_lines()
-    rows = parse_units(lines)
+    html = fetch_html(URL)
+    rows = parse_units_from_html(html)
     write_outputs(rows)
+
 
 if __name__ == "__main__":
     main()
+
