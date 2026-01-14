@@ -74,7 +74,7 @@ def parse_units_from_html(html: str) -> list[dict]:
         # ---- Hämta "Uppdaterad:" och "Meddelande:" EFTER Geriatrik-raden ----
         updated = ""
         message = ""
-        next_row = tr_capacity.find_next_sibling("tr")
+        next_row = ger_tr.find_next_sibling("tr")
         while next_row:
             # Stoppa om vi nått nästa kapacitetsrad (id="rightSide" + text "Geriatrik:")
             cap_cell = next_row.find("td", id="rightSide")
