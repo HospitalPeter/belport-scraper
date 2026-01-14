@@ -2,17 +2,24 @@ name: scrape-belport
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # var 5:e minut
-  workflow_dispatch:         # så du kan köra manuellt också
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+# 1) Förhindrar att två körningar pushar samtidigt
+concurrency:
+  group: belport-scrape
+  cancel-in-progress: false
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # behövs för rebase
 
       - uses: actions/setup-python@v5
         with:
@@ -30,4 +37,7 @@ jobs:
           git config user.email "belport-bot@users.noreply.github.com"
           git add latest.csv latest.json
           git commit -m "Update latest scrape" || exit 0
+
+          # 2) Hämta & rebase mot remote innan push
+          git pull --rebase origin main
           git push
