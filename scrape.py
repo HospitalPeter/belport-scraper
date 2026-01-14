@@ -74,21 +74,20 @@ def parse_units_from_html(html: str) -> list[dict]:
         # ---- Hämta "Uppdaterad:" och "Meddelande:" EFTER Geriatrik-raden ----
         updated = ""
         message = ""
-
-        row = ger_tr.find_next_sibling("tr")
-        while row:
-            txt = _clean(row.get_text(" ", strip=True))
-
-            if txt.startswith("Uppdaterad:"):
-                updated = _clean(txt.split(":", 1)[1])
-            elif txt.startswith("Meddelande:"):
-                message = _clean(txt.split(":", 1)[1])
-
-            # sluta när vi når nästa enhetsblock
-            if row.find("td", id="rightSide") and _clean(row.get_text()) == "Geriatrik:":
+        next_row = tr_capacity.find_next_sibling("tr")
+        while next_row:
+            # Stoppa om vi nått nästa kapacitetsrad (id="rightSide" + text "Geriatrik:")
+            cap_cell = next_row.find("td", id="rightSide")
+            if cap_cell and _clean(cap_cell.get_text()) == "Geriatrik:":
                 break
 
-            row = row.find_next_sibling("tr")
+            text = _clean(next_row.get_text(" ", strip=True))
+            if text.startswith("Uppdaterad:"):
+                updated = _clean(text.split("Uppdaterad:", 1)[1])
+            elif text.startswith("Meddelande:"):
+                message = _clean(text.split("Meddelande:", 1)[1])
+
+            next_row = next_row.find_next_sibling("tr")
 
 
         # Avoid duplicates if the page contains repeated structures
