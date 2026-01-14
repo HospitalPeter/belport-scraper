@@ -13,7 +13,7 @@ GER_RE = re.compile(r"^Geriatrik:\s*(\d+)\s+(-?\d+)(?:\s+(\d+))?")
 MSG_RE = re.compile(r"^Meddelande:\s*(.*)$")
 
 def normalize(s: str) -> str:
-    # Ta bort “zero-width” och BOM, och gör ALL whitespace till enkla mellanslag
+    # gör ALL whitespace normal + ta bort osynliga tecken
     s = s.replace("\u200b", "").replace("\ufeff", "")
     s = re.sub(r"\s+", " ", s, flags=re.UNICODE).strip()
     return s
@@ -63,10 +63,21 @@ def parse_units(lines: list[str]) -> list[dict]:
             continue
 
         if current:
-            m = GER_RE.match(ln)
-            if m:
-                current["Lediga vårdplatser"] = m.group(2)
-                current["Väntande godkända remisser"] = m.group(3) if m.group(3) is not None else "0"
+            if "Geriatrik:" in ln:
+                nums = re.findall(r"-?\d+", ln)
+
+                # (debug - valfritt men bra tills det funkar)
+                print("DEBUG GERI:", repr(ln), "->", nums)
+
+                # Vi antar format: dispo, lediga, väntande
+                # dispo = nums[0] (ignoreras)
+                if len(nums) >= 2:
+                    current["Lediga vårdplatser"] = nums[1]
+                if len(nums) >= 3:
+                    current["Väntande godkända remisser"] = nums[2]
+                else:
+                    current["Väntande godkända remisser"] = "0"
+            
                 i += 1
                 continue
 
