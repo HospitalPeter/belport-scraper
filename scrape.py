@@ -7,29 +7,54 @@ from datetime import datetime, timezone
 
 URL = "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6"
 
-# Mönster på sidan:
-# Enhetsnamn följs typiskt av "Tel:" på nästa rad
 UPD_RE = re.compile(r"^Uppdaterad:\s*(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})$")
-GER_RE = re.compile(r"^Geriatrik:\s*(\d+)\s+(-?\d+)(?:\s+(\d+))?.*$")  # dispo, lediga, väntande?
+# dispo, lediga, väntande (väntande kan saknas)
+GER_RE = re.compile(r"^Geriatrik:\s*(\d+)\s+(-?\d+)(?:\s+(\d+))?\s*$")
 MSG_RE = re.compile(r"^Meddelande:\s*(.*)$")
+
+def normalize(s: str) -> str:
+    # Gör texten regex-vänlig: ersätt NBSP + ta bort “zero-width”
+    return (
+        s.replace("\xa0", " ")
+         .replace("\u200b", "")
+         .replace("\ufeff", "")
+         .strip()
+    )
 
 def fetch_lines() -> list[str]:
     r = requests.get(URL, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     text = soup.get_text("\n", strip=True)
-    return [ln.strip() for ln in text.split("\n") if ln.strip()]
+
+    lines = []
+    for ln in text.split("\n"):
+        ln = normalize(ln)
+        if ln:
+            lines.append(ln)
+    return lines
+
+def next_nonempty(lines: list[str], start: int, max_ahead: int = 3) -> str | None:
+    # Leta efter nästa rad inom några steg (för att hantera ibland tomrad mellan namn och Tel:)
+    for j in range(start, min(len(lines), start + max_ahead + 1)):
+        if lines[j]:
+            return lines[j]
+    return None
 
 def parse_units(lines: list[str]) -> list[dict]:
     rows: list[dict] = []
     current: dict | None = None
 
-    for i, ln in enumerate(lines):
-        # Start på ny enhet: rad som följs av Tel:
-        if i + 1 < len(lines) and lines[i + 1].startswith("Tel:"):
-            # Spara föregående enhet om den finns
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+
+        # Ny enhet = en rad vars "nästa 1–3 rader" innehåller Tel:
+        look = next_nonempty(lines, i + 1, max_ahead=3)
+        if look and look.startswith("Tel:"):
             if current:
                 rows.append(current)
+
             current = {
                 "Geriatrikenhet": ln,
                 "Uppdaterad senast": "",
@@ -37,40 +62,39 @@ def parse_units(lines: list[str]) -> list[dict]:
                 "Väntande godkända remisser": "",
                 "Meddelande": "",
             }
+            i += 1
             continue
 
-        if not current:
-            continue
+        if current:
+            m = GER_RE.match(ln)
+            if m:
+                current["Lediga vårdplatser"] = m.group(2)
+                current["Väntande godkända remisser"] = m.group(3) if m.group(3) is not None else "0"
+                i += 1
+                continue
 
-        m = UPD_RE.match(ln)
-        if m:
-            current["Uppdaterad senast"] = m.group(1)
-            continue
+            m = UPD_RE.match(ln)
+            if m:
+                current["Uppdaterad senast"] = m.group(1)
+                i += 1
+                continue
 
-        m = GER_RE.match(ln)
-        if m:
-            # dispo = m.group(1) (inte efterfrågad)
-            current["Lediga vårdplatser"] = m.group(2)
-            current["Väntande godkända remisser"] = m.group(3) if m.group(3) is not None else "0"
-            continue
+            m = MSG_RE.match(ln)
+            if m:
+                current["Meddelande"] = m.group(1).strip()
+                i += 1
+                continue
 
-        m = MSG_RE.match(ln)
-        if m:
-            current["Meddelande"] = m.group(1).strip()
-            continue
+        i += 1
 
     if current:
         rows.append(current)
 
-    # Filtrera bort uppenbart felmatchade "enheter" (säkerhetsnät)
-    rows = [r for r in rows if r["Geriatrikenhet"] and len(r["Geriatrikenhet"]) > 3]
+    # Stabil sortering
+    rows = sorted(rows, key=lambda x: x["Geriatrikenhet"])
     return rows
 
 def write_outputs(rows: list[dict]) -> None:
-    # Sortera för stabil output
-    rows = sorted(rows, key=lambda x: x["Geriatrikenhet"])
-
-    # CSV (enkelt att öppna i Excel)
     with open("latest.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
@@ -85,7 +109,6 @@ def write_outputs(rows: list[dict]) -> None:
         writer.writeheader()
         writer.writerows(rows)
 
-    # JSON (enkelt för andra system)
     payload = {
         "source_url": URL,
         "scraped_at_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
