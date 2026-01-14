@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-14T14:31:42+00:00",
+  "scraped_at_utc": "2026-01-14T14:49:10+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,16 +18,16 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-01-14 13:26",
+      "Uppdaterad senast": "2026-01-14 15:48",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Väntande godkända remisser": "5",
       "Meddelande": "Innan akut inläggning kontaktas Bakjour på tel 08-714 68 17. Intagssamordnare nås vardagar mellan 8-16 på tel 08-714 68 22. Jourtid prioriteras pat från akut och ambulans."
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-01-14 13:46",
+      "Uppdaterad senast": "2026-01-14 15:43",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "0",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
