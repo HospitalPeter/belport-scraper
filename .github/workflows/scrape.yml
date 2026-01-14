@@ -1,0 +1,33 @@
+name: scrape-belport
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # var 5:e minut
+  workflow_dispatch:         # så du kan köra manuellt också
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scrape.py
+
+      - name: Commit latest outputs (if changed)
+        run: |
+          git config user.name "belport-bot"
+          git config user.email "belport-bot@users.noreply.github.com"
+          git add latest.csv latest.json
+          git commit -m "Update latest scrape" || exit 0
+          git push
