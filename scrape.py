@@ -71,17 +71,25 @@ def parse_units_from_html(html: str) -> list[dict]:
         if not unit_name:
             continue
 
-        # Gather "Uppdaterad:" and "Meddelande:" from rows between unit_tr and ger_tr
+        # ---- Hämta "Uppdaterad:" och "Meddelande:" EFTER Geriatrik-raden ----
         updated = ""
         message = ""
-        row = unit_tr.find_next_sibling("tr")
-        while row and row != ger_tr:
+
+        row = ger_tr.find_next_sibling("tr")
+        while row:
             txt = _clean(row.get_text(" ", strip=True))
+
             if txt.startswith("Uppdaterad:"):
                 updated = _clean(txt.split(":", 1)[1])
             elif txt.startswith("Meddelande:"):
                 message = _clean(txt.split(":", 1)[1])
+
+            # sluta när vi når nästa enhetsblock
+            if row.find("td", id="rightSide") and _clean(row.get_text()) == "Geriatrik:":
+                break
+
             row = row.find_next_sibling("tr")
+
 
         # Avoid duplicates if the page contains repeated structures
         key = (unit_name, updated, lediga, vantande, message)
