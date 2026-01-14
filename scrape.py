@@ -41,17 +41,16 @@ def next_nonempty(lines: list[str], start: int, max_ahead: int = 3) -> str | Non
 def parse_units(lines: list[str]) -> list[dict]:
     rows: list[dict] = []
     current: dict | None = None
-
     i = 0
+
     while i < len(lines):
         ln = lines[i]
 
-        # Ny enhet = en rad vars "nästa 1–3 rader" innehåller Tel:
+        # Start på en ny enhet om nästa rad (inom 3 rader) börjar med 'Tel:'
         look = next_nonempty(lines, i + 1, max_ahead=3)
         if look and look.startswith("Tel:"):
             if current:
                 rows.append(current)
-
             current = {
                 "Geriatrikenhet": ln,
                 "Uppdaterad senast": "",
@@ -63,33 +62,26 @@ def parse_units(lines: list[str]) -> list[dict]:
             continue
 
         if current:
-            if "Geriatrik:" in ln:
-                nums = re.findall(r"-?\d+", ln)
-
-                # (debug - valfritt men bra tills det funkar)
-                print("DEBUG GERI:", repr(ln), "->", nums)
-
-                # Vi antar format: dispo, lediga, väntande
-                # dispo = nums[0] (ignoreras)
-                if len(nums) >= 2:
-                    current["Lediga vårdplatser"] = nums[1]
-                if len(nums) >= 3:
-                    current["Väntande godkända remisser"] = nums[2]
-                else:
-                    current["Väntande godkända remisser"] = "0"
-            
-                i += 1
-                continue
-
+            # Uppdaterad-raden
             m = UPD_RE.match(ln)
             if m:
                 current["Uppdaterad senast"] = m.group(1)
                 i += 1
                 continue
 
+            # Meddelande-raden
             m = MSG_RE.match(ln)
             if m:
                 current["Meddelande"] = m.group(1).strip()
+                i += 1
+                continue
+
+            # Rad med enbart tal: disponibla lediga [väntande]
+            if re.match(r"^-?\d+(?:\s+-?\d+){1,2}$", ln):
+                nums = [int(x) for x in ln.split()]
+                # nums[0] = disponibla (ignoreras)
+                current["Lediga vårdplatser"] = str(nums[1])
+                current["Väntande godkända remisser"] = str(nums[2]) if len(nums) > 2 else "0"
                 i += 1
                 continue
 
@@ -98,9 +90,9 @@ def parse_units(lines: list[str]) -> list[dict]:
     if current:
         rows.append(current)
 
-    # Stabil sortering
-    rows = sorted(rows, key=lambda x: x["Geriatrikenhet"])
-    return rows
+    # Sortera enheter för stabil output
+    return sorted(rows, key=lambda x: x["Geriatrikenhet"])
+
 
 def write_outputs(rows: list[dict]) -> None:
     with open("latest.csv", "w", newline="", encoding="utf-8") as f:
