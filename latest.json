@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-14T15:48:57+00:00",
+  "scraped_at_utc": "2026-01-14T17:00:54+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-01-14 15:03",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-14 17:58",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "5",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -32,8 +32,8 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-01-14 08:49",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-14 17:49",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "11",
       "Meddelande": "Viss väntelista till Hjärnsvikt!"
     },
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-01-13 16:13",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "11",
+      "Uppdaterad senast": "2026-01-14 16:57",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "3",
       "Meddelande": "Direktintag från akutmottagning dygnet runt. Direktintag från ambulans, primärvård och SÄBO (efter remiss/telefonkontakt med geriatrikkonsult) vardagar 08:00-16:00. Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
     {
