@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-18T07:37:01+00:00",
+  "scraped_at_utc": "2026-01-18T07:50:21+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,7 +18,7 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-01-17 21:09",
+      "Uppdaterad senast": "2026-01-18 08:49",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "8",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
@@ -32,9 +32,9 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-01-16 08:12",
-      "Lediga vårdplatser": "-1",
-      "Väntande godkända remisser": "16",
+      "Uppdaterad senast": "2026-01-18 08:41",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "19",
       "Meddelande": ""
     },
     {
@@ -81,14 +81,14 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-01-18 07:58",
+      "Uppdaterad senast": "2026-01-18 08:47",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "10",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-01-18 07:58",
+      "Uppdaterad senast": "2026-01-18 08:46",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "4",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
