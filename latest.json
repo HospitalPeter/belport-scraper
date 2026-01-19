@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-19T21:51:42+00:00",
+  "scraped_at_utc": "2026-01-19T22:46:10+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-01-19 17:20",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-19 22:57",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "10",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -25,7 +25,7 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-01-19 13:34",
+      "Uppdaterad senast": "2026-01-19 23:16",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "1",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
@@ -60,15 +60,15 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-01-19 14:45",
+      "Uppdaterad senast": "2026-01-19 23:16",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-19 19:45",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-19 22:59",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "9",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
