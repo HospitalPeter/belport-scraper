@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-19T17:00:07+00:00",
+  "scraped_at_utc": "2026-01-19T17:50:36+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-19 16:31",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-19 18:34",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": ""
     },
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-19 16:13",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-19 18:33",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "9",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
