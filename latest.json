@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-20T15:03:05+00:00",
+  "scraped_at_utc": "2026-01-20T16:01:14+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-01-20 15:05",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-20 16:25",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "10",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -39,9 +39,9 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-20 15:26",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-01-20 16:11",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
@@ -53,9 +53,9 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-01-20 08:07",
-      "Lediga vårdplatser": "3",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-01-20 16:06",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Dåligt med enkelrum. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
     {
