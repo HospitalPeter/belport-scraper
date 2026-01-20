@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-19T23:54:33+00:00",
+  "scraped_at_utc": "2026-01-20T04:11:45+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -67,15 +67,15 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-19 22:59",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-20 03:31",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "9",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-01-20 00:06",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-20 01:32",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
