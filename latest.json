@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-20T20:35:55+00:00",
+  "scraped_at_utc": "2026-01-20T21:38:03+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-01-20 16:25",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-20 22:31",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "10",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -18,8 +18,8 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-01-20 17:55",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-01-20 22:06",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "3",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
