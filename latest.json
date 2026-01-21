@@ -1,25 +1,25 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-21T18:09:34+00:00",
+  "scraped_at_utc": "2026-01-21T19:43:24+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-01-21 17:17",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-21 20:40",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "12",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-01-21 09:41",
+      "Uppdaterad senast": "2026-01-21 19:34",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-01-21 18:03",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-21 19:51",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
@@ -46,8 +46,8 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-01-21 15:33",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-21 19:26",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "2",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
@@ -95,8 +95,8 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-01-21 17:08",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-01-21 20:41",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "7",
       "Meddelande": "Direktintag från akutmottagning dygnet runt. Direktintag från ambulans, primärvård och SÄBO (efter remiss/telefonkontakt med geriatrikkonsult) vardagar 08:00-16:00. Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
