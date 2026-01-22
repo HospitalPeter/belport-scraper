@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-21T23:50:50+00:00",
+  "scraped_at_utc": "2026-01-22T04:15:36+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -46,9 +46,9 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-01-21 19:26",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-01-22 03:37",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
