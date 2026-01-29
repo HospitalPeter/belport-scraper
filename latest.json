@@ -1,32 +1,32 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-29T07:30:09+00:00",
+  "scraped_at_utc": "2026-01-29T10:01:02+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-01-29 08:12",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-29 08:55",
+      "Lediga vårdplatser": "5",
       "Väntande godkända remisser": "1",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-01-28 16:54",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-01-29 10:03",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-01-29 07:58",
-      "Lediga vårdplatser": "4",
-      "Väntande godkända remisser": "6",
+      "Uppdaterad senast": "2026-01-29 09:23",
+      "Lediga vårdplatser": "6",
+      "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-01-28 20:00",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-29 08:34",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "2",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
@@ -53,9 +53,9 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-01-29 04:15",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "3",
+      "Uppdaterad senast": "2026-01-29 08:47",
+      "Lediga vårdplatser": "4",
+      "Väntande godkända remisser": "",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-28 17:29",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-01-29 08:39",
+      "Lediga vårdplatser": "12",
       "Väntande godkända remisser": "4",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
@@ -81,15 +81,15 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-01-29 08:10",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-01-29 08:51",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-01-29 08:10",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-01-29 08:51",
+      "Lediga vårdplatser": "5",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
