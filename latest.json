@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-01-29T10:01:02+00:00",
+  "scraped_at_utc": "2026-01-29T11:46:40+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -67,9 +67,9 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-01-29 08:39",
-      "Lediga vårdplatser": "12",
-      "Väntande godkända remisser": "4",
+      "Uppdaterad senast": "2026-01-29 11:05",
+      "Lediga vårdplatser": "13",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-01-29 06:39",
+      "Uppdaterad senast": "2026-01-29 11:53",
       "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "5",
+      "Väntande godkända remisser": "9",
       "Meddelande": "Direktintag från akutmottagning dygnet runt. Direktintag från ambulans, primärvård och SÄBO (efter remiss/telefonkontakt med geriatrikkonsult) vardagar 08:00-16:00. Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
     {
