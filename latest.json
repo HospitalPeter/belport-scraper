@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-02T23:57:34+00:00",
+  "scraped_at_utc": "2026-02-03T05:07:56+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -53,8 +53,8 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-02-02 22:17",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-03 01:57",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
@@ -74,7 +74,7 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-03 00:54",
+      "Uppdaterad senast": "2026-02-03 04:54",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-02 15:30",
+      "Uppdaterad senast": "2026-02-03 05:56",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "11",
+      "Väntande godkända remisser": "10",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO (efter kontakt med geriatrikkonsult/bakjour). Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
     {
