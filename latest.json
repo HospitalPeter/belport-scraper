@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-07T19:04:34+00:00",
+  "scraped_at_utc": "2026-02-07T19:47:26+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,16 +39,16 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-07 15:37",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-07 20:45",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-07 18:38",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-02-07 20:13",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-07 12:36",
+      "Uppdaterad senast": "2026-02-07 20:37",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Väntande godkända remisser": "5",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO (efter kontakt med geriatrikkonsult/bakjour). Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
     {
