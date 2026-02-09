@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-09T20:05:53+00:00",
+  "scraped_at_utc": "2026-02-09T22:05:15+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,8 +18,8 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-09 18:12",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-09 21:26",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "6",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
@@ -46,8 +46,8 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-09 19:30",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-09 21:15",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
@@ -74,9 +74,9 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-09 18:11",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-02-09 23:02",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
     {
