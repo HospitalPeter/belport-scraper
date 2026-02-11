@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-11T08:05:07+00:00",
+  "scraped_at_utc": "2026-02-11T11:12:33+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,16 +18,16 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-11 08:58",
+      "Uppdaterad senast": "2026-02-11 10:26",
       "Lediga vårdplatser": "4",
-      "Väntande godkända remisser": "10",
+      "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-10 15:16",
+      "Uppdaterad senast": "2026-02-11 12:07",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "13",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-02-11 00:28",
+      "Uppdaterad senast": "2026-02-11 09:09",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "3",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-11 08:47",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-11 09:59",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "1",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
@@ -81,8 +81,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-11 08:54",
-      "Lediga vårdplatser": "7",
+      "Uppdaterad senast": "2026-02-11 10:40",
+      "Lediga vårdplatser": "6",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
@@ -95,16 +95,16 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-11 06:11",
+      "Uppdaterad senast": "2026-02-11 10:46",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "4",
+      "Väntande godkända remisser": "3",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO (efter kontakt med geriatrikkonsult/bakjour). Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
     {
       "Geriatrikenhet": "Tiohundra",
-      "Uppdaterad senast": "2026-02-10 07:58",
+      "Uppdaterad senast": "2026-02-11 11:23",
       "Lediga vårdplatser": "-1",
-      "Väntande godkända remisser": "3",
+      "Väntande godkända remisser": "2",
       "Meddelande": "antalet disponibla vårdplatser varierar utifrån behov av somatiska vårdplatser."
     }
   ]
