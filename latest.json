@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-12T07:59:15+00:00",
+  "scraped_at_utc": "2026-02-12T10:30:43+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,16 +11,16 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-12 02:38",
-      "Lediga vårdplatser": "-1",
-      "Väntande godkända remisser": "4",
+      "Uppdaterad senast": "2026-02-12 10:23",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "6",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-11 19:11",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "4",
+      "Uppdaterad senast": "2026-02-12 10:23",
+      "Lediga vårdplatser": "4",
+      "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
     {
@@ -60,16 +60,16 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-11 16:09",
+      "Uppdaterad senast": "2026-02-12 11:03",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "0",
-      "Meddelande": "Tillfälligt intagningsstopp p g a nyupptäckt calicismitta på avd. Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
+      "Väntande godkända remisser": "3",
+      "Meddelande": "Tillfälligt intagningsstopp p g a calicismitta på avd. Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-12 05:41",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-02-12 09:58",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "0",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
@@ -81,22 +81,22 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-12 08:03",
-      "Lediga vårdplatser": "6",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-02-12 11:18",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "2",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-02-12 08:03",
-      "Lediga vårdplatser": "5",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-02-12 11:18",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "2",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-12 07:45",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-12 09:48",
+      "Lediga vårdplatser": "6",
       "Väntande godkända remisser": "2",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO (efter kontakt med geriatrikkonsult/bakjour). Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
