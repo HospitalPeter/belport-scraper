@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-13T17:55:34+00:00",
+  "scraped_at_utc": "2026-02-13T19:02:14+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-02-13 16:10",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-13 19:40",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "10",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-13 15:56",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-13 19:48",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": ""
     },
@@ -67,15 +67,15 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-13 15:19",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-13 18:59",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "2",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-13 16:13",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-13 19:05",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
