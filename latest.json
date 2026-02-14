@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-13T23:42:10+00:00",
+  "scraped_at_utc": "2026-02-14T00:02:36+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-13 18:49",
+      "Uppdaterad senast": "2026-02-14 00:56",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Väntande godkända remisser": "3",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO (efter kontakt med geriatrikkonsult/bakjour). Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
     {
