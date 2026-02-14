@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-14T11:52:30+00:00",
+  "scraped_at_utc": "2026-02-14T12:47:44+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,16 +11,16 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-13 17:14",
+      "Uppdaterad senast": "2026-02-14 13:11",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "4",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-14 08:05",
+      "Uppdaterad senast": "2026-02-14 13:23",
       "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "7",
+      "Väntande godkända remisser": "13",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
     {
@@ -46,8 +46,8 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-14 12:43",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-14 13:26",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
