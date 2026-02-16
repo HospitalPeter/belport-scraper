@@ -1,10 +1,10 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-16T06:16:38+00:00",
+  "scraped_at_utc": "2026-02-16T07:34:03+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-02-16 07:09",
+      "Uppdaterad senast": "2026-02-16 08:03",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "20",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
@@ -18,9 +18,9 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-15 15:03",
+      "Uppdaterad senast": "2026-02-16 07:59",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "13",
+      "Väntande godkända remisser": "19",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
     {
@@ -32,16 +32,16 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-02-15 09:10",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-02-16 08:08",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Patienter som kan vårdas på extern geriatrik hänvisas dit."
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-15 09:01",
+      "Uppdaterad senast": "2026-02-16 08:12",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "3",
+      "Väntande godkända remisser": "8",
       "Meddelande": ""
     },
     {
@@ -67,35 +67,35 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-16 06:54",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-02-16 08:14",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "5",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-16 07:11",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-16 08:27",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-15 22:10",
+      "Uppdaterad senast": "2026-02-16 08:14",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "9",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-02-15 22:10",
+      "Uppdaterad senast": "2026-02-16 08:15",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "7",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-15 15:57",
+      "Uppdaterad senast": "2026-02-16 07:27",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "5",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO (efter kontakt med geriatrikkonsult/bakjour). Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
