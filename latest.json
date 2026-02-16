@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-16T13:36:07+00:00",
+  "scraped_at_utc": "2026-02-16T14:28:00+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,9 +39,9 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-16 08:12",
+      "Uppdaterad senast": "2026-02-16 15:17",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "8",
+      "Väntande godkända remisser": "6",
       "Meddelande": ""
     },
     {
@@ -53,9 +53,9 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-02-16 11:31",
-      "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "3",
+      "Uppdaterad senast": "2026-02-16 15:10",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-16 11:04",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-02-16 15:25",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "3",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
