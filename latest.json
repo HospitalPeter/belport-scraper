@@ -1,19 +1,19 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-17T09:02:53+00:00",
+  "scraped_at_utc": "2026-02-17T10:04:10+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-02-17 07:58",
+      "Uppdaterad senast": "2026-02-17 10:28",
       "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "13",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-16 16:16",
+      "Uppdaterad senast": "2026-02-17 10:57",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
     {
@@ -25,23 +25,23 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-17 08:49",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-02-17 10:46",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "3",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-02-16 08:08",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "4",
+      "Uppdaterad senast": "2026-02-17 10:55",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "5",
       "Meddelande": "Patienter som kan vårdas på extern geriatrik hänvisas dit."
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-17 09:55",
+      "Uppdaterad senast": "2026-02-17 10:31",
       "Lediga vårdplatser": "5",
-      "Väntande godkända remisser": "1",
+      "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-17 09:29",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-17 10:22",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "4",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
