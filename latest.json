@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-17T23:15:31+00:00",
+  "scraped_at_utc": "2026-02-17T23:48:28+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,8 +11,8 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-17 17:43",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-18 00:39",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "1",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
