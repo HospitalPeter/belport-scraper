@@ -1,12 +1,12 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-18T06:34:22+00:00",
+  "scraped_at_utc": "2026-02-18T07:36:56+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-02-17 21:28",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "4",
+      "Uppdaterad senast": "2026-02-18 08:15",
+      "Lediga vårdplatser": "5",
+      "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-18 02:32",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-18 08:19",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "3",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
@@ -53,8 +53,8 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-02-18 06:56",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-18 07:36",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "6",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-17 15:58",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-18 08:17",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "2",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
