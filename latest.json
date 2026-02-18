@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-18T01:06:53+00:00",
+  "scraped_at_utc": "2026-02-18T03:46:44+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,7 +11,7 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-18 00:51",
+      "Uppdaterad senast": "2026-02-18 04:04",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "1",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
@@ -25,8 +25,8 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-17 22:44",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-18 02:32",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
@@ -81,8 +81,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-18 00:02",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-18 03:56",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
