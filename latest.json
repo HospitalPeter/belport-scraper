@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-19T16:04:56+00:00",
+  "scraped_at_utc": "2026-02-19T17:11:08+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-19 15:37",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-19 18:05",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "2",
       "Meddelande": ""
     },
@@ -53,8 +53,8 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-02-19 08:09",
-      "Lediga vårdplatser": "6",
+      "Uppdaterad senast": "2026-02-19 17:14",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "4",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
@@ -74,8 +74,8 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-19 13:02",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-19 17:29",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "2",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
