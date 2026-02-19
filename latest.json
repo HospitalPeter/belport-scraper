@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-19T21:45:41+00:00",
+  "scraped_at_utc": "2026-02-19T22:16:35+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,8 +18,8 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-19 20:58",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-19 22:46",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "1",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta geriatrik"
     },
@@ -39,16 +39,16 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-19 21:19",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-19 23:12",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-19 12:12",
-      "Lediga vårdplatser": "4",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-02-19 22:50",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
@@ -60,8 +60,8 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-19 11:55",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-19 23:06",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "1",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
