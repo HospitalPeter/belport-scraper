@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-22T14:02:36+00:00",
+  "scraped_at_utc": "2026-02-22T14:41:59+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -60,10 +60,10 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-22 13:03",
+      "Uppdaterad senast": "2026-02-22 15:39",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "3",
-      "Meddelande": "Fn utbrott vinterkräksjuka på avdelning. Intag stängt under dagen. Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
+      "Väntande godkända remisser": "2",
+      "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
