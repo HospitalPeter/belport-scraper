@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-22T18:01:17+00:00",
+  "scraped_at_utc": "2026-02-22T18:52:40+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -25,7 +25,7 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-22 14:57",
+      "Uppdaterad senast": "2026-02-22 19:11",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "4",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
@@ -60,15 +60,15 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-22 15:39",
+      "Uppdaterad senast": "2026-02-22 19:11",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-22 14:18",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-22 19:51",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "5",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-22 07:06",
+      "Uppdaterad senast": "2026-02-22 19:45",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "8",
+      "Väntande godkända remisser": "9",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO (efter kontakt med geriatrikkonsult/bakjour). Geriatrikkonsult/Bakjour tel. : 08 1232 5599."
     },
     {
