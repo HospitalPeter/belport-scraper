@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-22T06:07:44+00:00",
+  "scraped_at_utc": "2026-02-22T07:06:20+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-02-21 22:55",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-22 07:29",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "8",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -25,9 +25,9 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-21 13:51",
+      "Uppdaterad senast": "2026-02-22 08:02",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "0",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
@@ -60,9 +60,9 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-21 09:07",
+      "Uppdaterad senast": "2026-02-22 08:01",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "1",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
@@ -81,14 +81,14 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-21 16:05",
+      "Uppdaterad senast": "2026-02-22 07:50",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-02-21 16:06",
+      "Uppdaterad senast": "2026-02-22 07:50",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "6",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
