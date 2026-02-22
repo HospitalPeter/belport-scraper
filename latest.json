@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-22T07:48:51+00:00",
+  "scraped_at_utc": "2026-02-22T08:19:44+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -32,10 +32,10 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-02-21 17:43",
-      "Lediga vårdplatser": "3",
+      "Uppdaterad senast": "2026-02-22 09:13",
+      "Lediga vårdplatser": "-1",
       "Väntande godkända remisser": "6",
-      "Meddelande": "4 lediga platser."
+      "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
@@ -60,21 +60,21 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-22 08:01",
+      "Uppdaterad senast": "2026-02-22 08:56",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
-      "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
+      "Meddelande": "Fn utbrott vinterkräksjuka på avdelning. Intag stängt under dagen. Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-21 15:17",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-22 09:11",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "5",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-22 04:16",
+      "Uppdaterad senast": "2026-02-22 09:01",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
