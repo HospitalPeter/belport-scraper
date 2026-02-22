@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-22T19:24:37+00:00",
+  "scraped_at_utc": "2026-02-22T19:46:49+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -81,8 +81,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-22 19:58",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-22 20:42",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "7",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
