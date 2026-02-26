@@ -1,24 +1,24 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-26T16:08:44+00:00",
+  "scraped_at_utc": "2026-02-26T17:18:34+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-02-26 15:21",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-02-26 17:10",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "6",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-26 11:47",
+      "Uppdaterad senast": "2026-02-26 18:18",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-26 15:29",
+      "Uppdaterad senast": "2026-02-26 17:45",
       "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "4",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss:"
@@ -60,8 +60,8 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-26 16:12",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-26 18:17",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
@@ -74,8 +74,8 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-26 10:46",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-26 17:34",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
