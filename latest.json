@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-26T08:06:39+00:00",
+  "scraped_at_utc": "2026-02-26T09:04:40+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,8 +11,8 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-25 22:58",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-26 09:33",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
@@ -32,22 +32,22 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-02-26 08:05",
+      "Uppdaterad senast": "2026-02-26 09:10",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "7",
-      "Meddelande": ""
+      "Meddelande": "Intagningstopp på avd för Hjärnsvikt r/t smitta t.o.m. 260302"
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-26 08:23",
+      "Uppdaterad senast": "2026-02-26 09:34",
       "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "4",
+      "Väntande godkända remisser": "3",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-25 12:11",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-26 09:08",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
