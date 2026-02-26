@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-26T15:09:35+00:00",
+  "scraped_at_utc": "2026-02-26T16:08:44+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,9 +39,9 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-26 14:54",
+      "Uppdaterad senast": "2026-02-26 16:27",
       "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "7",
+      "Väntande godkända remisser": "8",
       "Meddelande": ""
     },
     {
@@ -53,15 +53,15 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-02-26 08:35",
-      "Lediga vårdplatser": "7",
+      "Uppdaterad senast": "2026-02-26 16:44",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "3",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-26 13:33",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-26 16:12",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
