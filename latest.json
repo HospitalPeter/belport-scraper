@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-26T13:10:47+00:00",
+  "scraped_at_utc": "2026-02-26T14:15:40+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -25,8 +25,8 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-26 08:19",
-      "Lediga vårdplatser": "5",
+      "Uppdaterad senast": "2026-02-26 15:12",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
@@ -39,9 +39,9 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-26 13:33",
+      "Uppdaterad senast": "2026-02-26 14:54",
       "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "4",
+      "Väntande godkända remisser": "7",
       "Meddelande": ""
     },
     {
