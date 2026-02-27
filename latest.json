@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-27T13:47:24+00:00",
+  "scraped_at_utc": "2026-02-27T14:29:40+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,7 +11,7 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-02-26 18:18",
+      "Uppdaterad senast": "2026-02-27 15:14",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
@@ -39,16 +39,16 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-27 09:47",
-      "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "8",
+      "Uppdaterad senast": "2026-02-27 14:59",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "9",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-27 12:48",
-      "Lediga vårdplatser": "4",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-02-27 15:29",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-27 12:52",
+      "Uppdaterad senast": "2026-02-27 15:22",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "3",
+      "Väntande godkända remisser": "7",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
