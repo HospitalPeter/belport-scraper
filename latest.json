@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-27T15:58:34+00:00",
+  "scraped_at_utc": "2026-02-27T16:52:50+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -53,7 +53,7 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-02-27 16:34",
+      "Uppdaterad senast": "2026-02-27 17:38",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "3",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
@@ -81,14 +81,14 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-27 15:30",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-27 17:25",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-02-27 15:30",
+      "Uppdaterad senast": "2026-02-27 17:25",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
