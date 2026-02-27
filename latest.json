@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-27T11:19:06+00:00",
+  "scraped_at_utc": "2026-02-27T11:50:31+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,8 +18,8 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-27 11:46",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-27 12:46",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "1",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss:"
     },
@@ -46,8 +46,8 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-27 01:55",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-02-27 12:48",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
@@ -81,14 +81,14 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-02-27 08:33",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-27 12:38",
+      "Lediga vårdplatser": "6",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-02-27 08:33",
+      "Uppdaterad senast": "2026-02-27 12:38",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
