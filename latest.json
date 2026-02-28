@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-28T15:39:32+00:00",
+  "scraped_at_utc": "2026-02-28T15:55:28+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,16 +18,16 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-02-28 07:28",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-02-28 16:39",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "6",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss:"
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-02-28 14:37",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "",
+      "Uppdaterad senast": "2026-02-28 16:45",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "3",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-02-28 14:37",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-28 16:45",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
-      "Meddelande": "Tillfälligt intagningsstopp p g a calici Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
+      "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
