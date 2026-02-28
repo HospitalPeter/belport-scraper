@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-02-28T07:00:53+00:00",
+  "scraped_at_utc": "2026-02-28T07:36:33+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -32,14 +32,14 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-02-26 09:10",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-28 08:03",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "7",
       "Meddelande": "Intagningstopp på avd för Hjärnsvikt r/t smitta t.o.m. 260302"
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-28 06:37",
+      "Uppdaterad senast": "2026-02-28 08:23",
       "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "9",
       "Meddelande": ""
@@ -74,8 +74,8 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-02-28 06:02",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-02-28 08:10",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
@@ -95,7 +95,7 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-02-28 07:18",
+      "Uppdaterad senast": "2026-02-28 08:16",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "6",
       "Meddelande": "Direktintag dygnet runt från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
