@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-01T08:50:04+00:00",
+  "scraped_at_utc": "2026-03-01T09:22:14+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -60,8 +60,8 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-03-01 08:28",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-03-01 09:56",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
