@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-01T15:30:41+00:00",
+  "scraped_at_utc": "2026-03-01T15:50:28+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,9 +11,9 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-03-01 08:50",
+      "Uppdaterad senast": "2026-03-01 16:44",
       "Lediga vårdplatser": "-1",
-      "Väntande godkända remisser": "",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
     },
     {
@@ -81,14 +81,14 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-03-01 08:57",
+      "Uppdaterad senast": "2026-03-01 16:36",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "8",
+      "Väntande godkända remisser": "11",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-03-01 08:57",
+      "Uppdaterad senast": "2026-03-01 16:36",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "4",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
