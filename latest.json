@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-01T06:27:29+00:00",
+  "scraped_at_utc": "2026-03-01T07:10:55+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,15 +39,15 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-02-28 18:16",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-03-01 08:09",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "9",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-02-28 18:12",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-03-01 08:10",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
