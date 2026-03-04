@@ -1,12 +1,12 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-04T13:18:41+00:00",
+  "scraped_at_utc": "2026-03-04T14:07:50+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-03-04 13:26",
-      "Lediga vårdplatser": "3",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-03-04 14:54",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "6",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-03-04 09:27",
-      "Lediga vårdplatser": "13",
+      "Uppdaterad senast": "2026-03-04 15:06",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "4",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
@@ -81,9 +81,9 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-03-04 14:02",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-03-04 14:53",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "1",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
