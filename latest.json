@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-06T15:46:42+00:00",
+  "scraped_at_utc": "2026-03-06T16:23:18+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,8 +18,8 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-03-06 14:33",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-03-06 17:07",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss:"
     },
@@ -74,15 +74,15 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-03-06 10:51",
-      "Lediga vårdplatser": "8",
+      "Uppdaterad senast": "2026-03-06 16:50",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-03-06 15:49",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-03-06 16:59",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
