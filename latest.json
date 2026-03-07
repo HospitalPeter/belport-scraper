@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-07T15:00:48+00:00",
+  "scraped_at_utc": "2026-03-07T15:34:38+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,9 +18,9 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-03-07 15:52",
+      "Uppdaterad senast": "2026-03-07 16:18",
       "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "4",
+      "Väntande godkända remisser": "5",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss:"
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-03-06 08:05",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-03-07 16:01",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "9",
-      "Meddelande": ""
+      "Meddelande": "3 lediga platser. Vi har en höft. Intagningsstopps på demensavd."
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-03-07 14:29",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-03-07 16:14",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "2",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-03-07 07:58",
+      "Uppdaterad senast": "2026-03-07 16:34",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
     {
