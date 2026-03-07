@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-07T22:59:06+00:00",
+  "scraped_at_utc": "2026-03-07T23:33:05+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -32,10 +32,10 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-03-07 16:01",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-03-08 00:22",
+      "Lediga vårdplatser": "-2",
       "Väntande godkända remisser": "9",
-      "Meddelande": "3 lediga platser. Vi har en höft. Intagningsstopps på demensavd."
+      "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
@@ -81,7 +81,7 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-03-07 18:27",
+      "Uppdaterad senast": "2026-03-08 00:24",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
