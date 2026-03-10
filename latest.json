@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-10T05:33:26+00:00",
+  "scraped_at_utc": "2026-03-10T06:27:54+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -102,8 +102,8 @@
     },
     {
       "Geriatrikenhet": "Tiohundra",
-      "Uppdaterad senast": "2026-03-09 07:21",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-03-10 07:19",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "1",
       "Meddelande": "antalet disponibla vårdplatser varierar utifrån behov av somatiska vårdplatser."
     }
