@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-24T07:44:04+00:00",
+  "scraped_at_utc": "2026-03-24T08:34:58+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,9 +39,9 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-03-24 07:07",
-      "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-03-24 08:45",
+      "Lediga vårdplatser": "12",
+      "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
