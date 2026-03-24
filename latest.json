@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-24T02:11:16+00:00",
+  "scraped_at_utc": "2026-03-24T04:27:51+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -88,8 +88,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-03-23 18:28",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-03-24 04:49",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
