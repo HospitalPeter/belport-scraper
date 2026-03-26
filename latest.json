@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-03-26T05:47:57+00:00",
+  "scraped_at_utc": "2026-03-26T06:52:44+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -18,8 +18,8 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-03-26 03:24",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-03-26 07:38",
+      "Lediga vårdplatser": "10",
       "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss:"
     },
@@ -102,9 +102,9 @@
     },
     {
       "Geriatrikenhet": "Tiohundra",
-      "Uppdaterad senast": "2026-03-25 07:26",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "3",
+      "Uppdaterad senast": "2026-03-26 07:51",
+      "Lediga vårdplatser": "-1",
+      "Väntande godkända remisser": "1",
       "Meddelande": "antalet disponibla vårdplatser varierar utifrån behov av somatiska vårdplatser."
     }
   ]
