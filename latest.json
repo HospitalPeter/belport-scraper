@@ -1,12 +1,12 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-03T18:04:02+00:00",
+  "scraped_at_utc": "2026-04-03T19:03:56+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-04-03 18:52",
-      "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "7",
+      "Uppdaterad senast": "2026-04-03 21:00",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "8",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-04-03 08:32",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-04-03 20:12",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
@@ -53,8 +53,8 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-04-03 17:37",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-04-03 20:38",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
@@ -95,8 +95,8 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-04-03 07:40",
-      "Lediga vårdplatser": "3",
+      "Uppdaterad senast": "2026-04-03 20:44",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
