@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-03T19:51:02+00:00",
+  "scraped_at_utc": "2026-04-03T20:31:06+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,22 +39,22 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-04-03 20:12",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-04-03 22:20",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-04-03 06:30",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-04-03 22:28",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-04-03 20:38",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-04-03 22:26",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
@@ -74,8 +74,8 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-04-03 17:17",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-04-03 22:09",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
@@ -95,7 +95,7 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-04-03 20:44",
+      "Uppdaterad senast": "2026-04-03 22:07",
       "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
