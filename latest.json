@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-06T15:31:14+00:00",
+  "scraped_at_utc": "2026-04-06T16:27:01+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -74,15 +74,15 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-04-06 08:48",
-      "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-04-06 17:47",
+      "Lediga vårdplatser": "3",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-04-06 14:13",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-04-06 18:25",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "3",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
@@ -95,8 +95,8 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-04-06 14:56",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-04-06 18:19",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "5",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
