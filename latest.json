@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-07T04:40:06+00:00",
+  "scraped_at_utc": "2026-04-07T06:08:54+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-04-06 16:42",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-04-07 08:06",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "14",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -18,7 +18,7 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-04-06 19:18",
+      "Uppdaterad senast": "2026-04-07 07:57",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "12",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta Geriatrik"
@@ -53,9 +53,9 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-04-06 13:17",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "3",
+      "Uppdaterad senast": "2026-04-07 07:02",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
     {
@@ -81,23 +81,23 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-04-06 19:20",
+      "Uppdaterad senast": "2026-04-07 07:57",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-04-06 14:13",
+      "Uppdaterad senast": "2026-04-07 07:57",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "6",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-04-06 18:19",
+      "Uppdaterad senast": "2026-04-07 06:41",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "5",
+      "Väntande godkända remisser": "7",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
     {
