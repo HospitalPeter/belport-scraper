@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-11T15:24:46+00:00",
+  "scraped_at_utc": "2026-04-11T15:57:29+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-04-11 16:14",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-04-11 17:52",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "4",
       "Meddelande": ""
     },
@@ -74,7 +74,7 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-04-11 08:03",
+      "Uppdaterad senast": "2026-04-11 17:52",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "1",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
