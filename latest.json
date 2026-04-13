@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-13T18:41:05+00:00",
+  "scraped_at_utc": "2026-04-13T19:53:36+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -32,8 +32,8 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-04-13 09:42",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-04-13 21:49",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "6",
       "Meddelande": ""
     },
