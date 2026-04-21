@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-21T19:58:05+00:00",
+  "scraped_at_utc": "2026-04-21T21:01:33+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-04-21 15:54",
-      "Lediga vårdplatser": "5",
+      "Uppdaterad senast": "2026-04-21 22:48",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "1",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-04-21 21:40",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-04-21 22:57",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "",
       "Meddelande": ""
     },
@@ -88,8 +88,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-04-21 15:10",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-04-21 22:02",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "2",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
