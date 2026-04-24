@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-24T08:18:30+00:00",
+  "scraped_at_utc": "2026-04-24T09:58:17+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -46,9 +46,9 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-04-24 07:57",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-04-24 11:53",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-04-24 08:32",
+      "Uppdaterad senast": "2026-04-24 10:22",
       "Lediga vårdplatser": "15",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-04-23 15:13",
+      "Uppdaterad senast": "2026-04-24 10:58",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "5",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
     {
