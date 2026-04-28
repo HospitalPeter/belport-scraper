@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-04-28T04:00:43+00:00",
+  "scraped_at_utc": "2026-04-28T06:40:12+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-04-27 20:12",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-04-28 07:05",
+      "Lediga vårdplatser": "10",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -39,44 +39,44 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-04-27 21:43",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-04-28 08:31",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "1",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-04-27 15:45",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-04-28 07:29",
+      "Lediga vårdplatser": "4",
+      "Väntande godkända remisser": "4",
       "Meddelande": "Vänligen invänta svar på PCR innan ni ringer om inläggning. Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-04-28 00:31",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-04-28 08:33",
+      "Lediga vårdplatser": "10",
+      "Väntande godkända remisser": "",
       "Meddelande": "Vänligen invänta prov/PCR-svar innan ni ringer om inläggning. Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-04-28 04:16",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-04-28 08:28",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-04-28 00:57",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-04-28 07:53",
+      "Lediga vårdplatser": "10",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-04-27 23:21",
-      "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "3",
+      "Uppdaterad senast": "2026-04-28 08:05",
+      "Lediga vårdplatser": "6",
+      "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-04-27 21:05",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-04-28 07:00",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
