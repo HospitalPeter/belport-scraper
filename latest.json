@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-05-01T13:47:13+00:00",
+  "scraped_at_utc": "2026-05-01T14:43:03+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -25,10 +25,10 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-05-01 08:01",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-01 15:56",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
-      "Meddelande": "Plats ledig efter kl 15.00 Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
+      "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
@@ -39,7 +39,7 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-05-01 11:06",
+      "Uppdaterad senast": "2026-05-01 16:26",
       "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "",
       "Meddelande": ""
@@ -60,7 +60,7 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-04-30 07:33",
+      "Uppdaterad senast": "2026-05-01 15:56",
       "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "0",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
@@ -95,7 +95,7 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-05-01 14:21",
+      "Uppdaterad senast": "2026-05-01 16:15",
       "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "1",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
