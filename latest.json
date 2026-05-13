@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-05-13T18:09:05+00:00",
+  "scraped_at_utc": "2026-05-13T20:10:44+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-05-13 15:40",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-13 20:58",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -18,8 +18,8 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-05-13 15:55",
-      "Lediga vårdplatser": "10",
+      "Uppdaterad senast": "2026-05-13 20:19",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta Geriatrik"
     },
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-05-13 09:40",
-      "Lediga vårdplatser": "13",
+      "Uppdaterad senast": "2026-05-13 21:41",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "1",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
