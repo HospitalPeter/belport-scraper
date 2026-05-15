@@ -1,17 +1,17 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-05-15T18:08:11+00:00",
+  "scraped_at_utc": "2026-05-15T19:53:57+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-05-15 14:48",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-15 20:59",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-05-15 17:20",
+      "Uppdaterad senast": "2026-05-15 20:28",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "2",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. I första hand emottas sköra äldre patienter som både har behov av det geriatriska teamets resurser och samtidig närhet till akutsjukhuset."
@@ -32,8 +32,8 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-05-15 15:40",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-15 21:18",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "5",
       "Meddelande": "Intagningsstopp R71 pga Calici"
     },
