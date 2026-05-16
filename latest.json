@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-05-16T12:09:09+00:00",
+  "scraped_at_utc": "2026-05-16T14:00:13+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -32,10 +32,10 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-05-15 21:18",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "5",
-      "Meddelande": "Intagningsstopp R71 pga Calici"
+      "Uppdaterad senast": "2026-05-16 15:15",
+      "Lediga vårdplatser": "3",
+      "Väntande godkända remisser": "11",
+      "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-05-16 08:37",
-      "Lediga vårdplatser": "9",
+      "Uppdaterad senast": "2026-05-16 15:28",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "0",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
@@ -81,7 +81,7 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-05-16 08:22",
+      "Uppdaterad senast": "2026-05-16 15:57",
       "Lediga vårdplatser": "10",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
