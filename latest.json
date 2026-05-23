@@ -1,12 +1,12 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-05-23T20:43:29+00:00",
+  "scraped_at_utc": "2026-05-23T21:40:00+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-05-23 15:45",
-      "Lediga vårdplatser": "2",
-      "Väntande godkända remisser": "0",
+      "Uppdaterad senast": "2026-05-23 23:16",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "7",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-05-23 11:49",
+      "Uppdaterad senast": "2026-05-23 23:07",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
