@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-05-25T19:58:20+00:00",
+  "scraped_at_utc": "2026-05-25T21:19:11+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -25,9 +25,9 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-05-25 20:21",
+      "Uppdaterad senast": "2026-05-25 22:26",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "",
+      "Väntande godkända remisser": "5",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-05-25 15:58",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-05-25 22:18",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
@@ -60,15 +60,15 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-05-25 16:01",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-05-25 22:26",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-05-25 14:46",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-05-25 22:20",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-05-24 19:10",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "1",
+      "Uppdaterad senast": "2026-05-25 23:14",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
     {
