@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-05-26T05:48:32+00:00",
+  "scraped_at_utc": "2026-05-26T09:31:15+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-05-25 15:38",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-05-26 08:13",
+      "Lediga vårdplatser": "5",
       "Väntande godkända remisser": "1",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -18,29 +18,29 @@
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-05-26 06:31",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-26 08:03",
+      "Lediga vårdplatser": "6",
       "Väntande godkända remisser": "2",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagningssköterska nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta Geriatrik"
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-05-25 22:26",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "5",
+      "Uppdaterad senast": "2026-05-26 08:18",
+      "Lediga vårdplatser": "5",
+      "Väntande godkända remisser": "",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-05-25 07:58",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "7",
+      "Uppdaterad senast": "2026-05-26 10:15",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "3",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-05-25 22:18",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-26 07:53",
+      "Lediga vårdplatser": "7",
       "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
@@ -53,44 +53,44 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-05-25 17:53",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-05-26 07:49",
+      "Lediga vårdplatser": "8",
       "Väntande godkända remisser": "",
       "Meddelande": "Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-05-25 22:26",
+      "Uppdaterad senast": "2026-05-26 10:51",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-05-25 22:20",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-26 09:22",
+      "Lediga vårdplatser": "11",
       "Väntande godkända remisser": "0",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-05-26 06:52",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-05-26 09:17",
+      "Lediga vårdplatser": "5",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-05-26 07:30",
-      "Lediga vårdplatser": "4",
+      "Uppdaterad senast": "2026-05-26 08:03",
+      "Lediga vårdplatser": "15",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-05-26 07:32",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "3",
+      "Uppdaterad senast": "2026-05-26 09:13",
+      "Lediga vårdplatser": "6",
+      "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
     {
