@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-06-10T21:30:14+00:00",
+  "scraped_at_utc": "2026-06-10T23:12:32+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -32,8 +32,8 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-06-09 17:16",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-06-11 01:10",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "5",
       "Meddelande": "Prioritering av akuta flöden. All geriatrik som inte behöver akutsjukhusets resurser hänvisas till extern geriatrik."
     },
