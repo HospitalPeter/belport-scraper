@@ -1,11 +1,11 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-06-17T21:31:39+00:00",
+  "scraped_at_utc": "2026-06-17T23:08:50+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-06-17 17:10",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-06-18 00:11",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
@@ -74,8 +74,8 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-06-17 17:35",
-      "Lediga vårdplatser": "3",
+      "Uppdaterad senast": "2026-06-18 00:34",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
     },
