@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-06-30T08:19:54+00:00",
+  "scraped_at_utc": "2026-06-30T11:24:23+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,15 +11,15 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-06-29 21:01",
+      "Uppdaterad senast": "2026-06-30 11:41",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. Vi vårdar sköra äldre med behov av både akutsjukhusets resurser och det geriatriska teamet. Disponibla vårdplatser gäller både avd 32/GAVA och avd 37. Efter kl 21 sker inläggningar via medicinakuten."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-06-30 10:13",
-      "Lediga vårdplatser": "3",
+      "Uppdaterad senast": "2026-06-30 12:44",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "2",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagssamordnare nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta Geriatrik"
     },
@@ -39,15 +39,15 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-06-30 09:57",
-      "Lediga vårdplatser": "5",
+      "Uppdaterad senast": "2026-06-30 10:42",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "1",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-06-29 21:45",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-06-30 11:30",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "",
       "Meddelande": "Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
@@ -67,9 +67,9 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-06-30 08:22",
-      "Lediga vårdplatser": "1",
-      "Väntande godkända remisser": "4",
+      "Uppdaterad senast": "2026-06-30 10:48",
+      "Lediga vårdplatser": "0",
+      "Väntande godkända remisser": "3",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-06-30 08:11",
-      "Lediga vårdplatser": "7",
+      "Uppdaterad senast": "2026-06-30 11:15",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
