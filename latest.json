@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-07-12T09:21:27+00:00",
+  "scraped_at_utc": "2026-07-12T10:51:51+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,15 +39,15 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-07-11 17:46",
+      "Uppdaterad senast": "2026-07-12 12:42",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-07-11 20:04",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-07-12 12:26",
+      "Lediga vårdplatser": "6",
       "Väntande godkända remisser": "",
       "Meddelande": "Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
@@ -67,8 +67,8 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-07-12 07:24",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-07-12 12:26",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
