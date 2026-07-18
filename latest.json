@@ -1,24 +1,24 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-07-18T05:50:35+00:00",
+  "scraped_at_utc": "2026-07-18T07:38:40+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-07-17 14:41",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-07-18 08:23",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-07-17 21:02",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-07-18 08:07",
+      "Lediga vårdplatser": "2",
+      "Väntande godkända remisser": "",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. Vi vårdar sköra äldre med behov av både akutsjukhusets resurser och det geriatriska teamet. Disponibla vårdplatser gäller både avd 32/GAVA och avd 37. Efter kl 21 sker inläggningar via medicinakuten."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-07-17 23:29",
+      "Uppdaterad senast": "2026-07-18 08:28",
       "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagssamordnare nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta Geriatrik"
@@ -39,10 +39,10 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-07-17 23:46",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-07-18 08:27",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "1",
-      "Meddelande": "Endast plats på konfusions avdelning ( Inga inläggningar av pat som behöver enkelsal/isolering pga smitta)"
+      "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
@@ -53,8 +53,8 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-07-17 20:34",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-07-18 08:11",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "",
       "Meddelande": "Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
