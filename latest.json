@@ -1,18 +1,18 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-07-31T10:19:04+00:00",
+  "scraped_at_utc": "2026-07-31T12:24:04+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
-      "Uppdaterad senast": "2026-07-31 10:51",
+      "Uppdaterad senast": "2026-07-31 13:17",
       "Lediga vårdplatser": "10",
       "Väntande godkända remisser": "0",
       "Meddelande": "Vänligen ring bakjour när akuta remisser skickas på jourtid. Fax: 08-58700008 (OBS! Ring bakjour innan remiss skickas/faxas). Capio Geriatrik Dalen"
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-07-31 09:13",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-07-31 13:49",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "2",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. Vi vårdar sköra äldre med behov av både akutsjukhusets resurser och det geriatriska teamet. Disponibla vårdplatser gäller både avd 32/GAVA och avd 37. Efter kl 21 sker inläggningar via medicinakuten."
     },
@@ -81,15 +81,15 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-07-31 07:57",
+      "Uppdaterad senast": "2026-07-31 13:36",
       "Lediga vårdplatser": "5",
       "Väntande godkända remisser": "",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-07-31 07:58",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-07-31 13:36",
+      "Lediga vårdplatser": "5",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
