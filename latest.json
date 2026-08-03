@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-08-03T08:27:08+00:00",
+  "scraped_at_utc": "2026-08-03T11:58:21+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -32,22 +32,22 @@
     },
     {
       "Geriatrikenhet": "Huddingegeriatriken",
-      "Uppdaterad senast": "2026-08-01 08:01",
+      "Uppdaterad senast": "2026-08-03 13:50",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "3",
+      "Väntande godkända remisser": "5",
       "Meddelande": "Prioritering av akuta flöden. All geriatrik som inte behöver akutsjukhusets resurser hänvisas till extern geriatrik."
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-08-03 08:49",
-      "Lediga vårdplatser": "5",
+      "Uppdaterad senast": "2026-08-03 13:44",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-08-02 23:51",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-08-03 10:43",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "",
       "Meddelande": "Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
@@ -67,9 +67,9 @@
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
-      "Uppdaterad senast": "2026-08-03 08:25",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "2",
+      "Uppdaterad senast": "2026-08-03 11:51",
+      "Lediga vårdplatser": "4",
+      "Väntande godkända remisser": "0",
       "Meddelande": "Bakjourskontakt 08-12338164 vid akut inläggning. Välkomna med remisser till Intaget Sabbatsbergsgeriatriken i Take Care."
     },
     {
@@ -81,15 +81,15 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-08-03 08:44",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-08-03 12:44",
+      "Lediga vårdplatser": "3",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Kungsholmen",
-      "Uppdaterad senast": "2026-08-03 08:50",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-08-03 12:44",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "0",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till _Kungsholmen: Stockholms Sjukhem Geriatrik kungsholmen"
     },
@@ -102,7 +102,7 @@
     },
     {
       "Geriatrikenhet": "Tiohundra",
-      "Uppdaterad senast": "2026-07-31 08:07",
+      "Uppdaterad senast": "2026-08-03 11:31",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "2",
       "Meddelande": "antalet disponibla vårdplatser varierar utifrån behov av somatiska vårdplatser."
