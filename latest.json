@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-08-05T11:30:21+00:00",
+  "scraped_at_utc": "2026-08-05T13:16:20+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-08-05 13:11",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-08-05 15:12",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "",
       "Meddelande": ""
     },
@@ -60,10 +60,10 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-08-05 09:26",
-      "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "1",
-      "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
+      "Uppdaterad senast": "2026-08-05 14:40",
+      "Lediga vårdplatser": "1",
+      "Väntande godkända remisser": "0",
+      "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81."
     },
     {
       "Geriatrikenhet": "Sabbatsbergsgeriatriken",
@@ -95,8 +95,8 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-08-05 09:26",
-      "Lediga vårdplatser": "6",
+      "Uppdaterad senast": "2026-08-05 14:51",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "3",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
