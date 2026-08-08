@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-08-08T21:11:41+00:00",
+  "scraped_at_utc": "2026-08-08T21:47:59+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,8 +39,8 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-08-08 21:20",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-08-08 23:26",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "",
       "Meddelande": ""
     },
@@ -95,9 +95,9 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-08-08 19:44",
+      "Uppdaterad senast": "2026-08-08 23:19",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "1",
+      "Väntande godkända remisser": "2",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
     },
     {
