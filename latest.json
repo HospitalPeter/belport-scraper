@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-08-09T20:49:45+00:00",
+  "scraped_at_utc": "2026-08-09T21:21:57+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -46,8 +46,8 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-08-09 22:44",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-08-09 23:01",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
