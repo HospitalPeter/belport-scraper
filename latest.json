@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-08-21T06:58:44+00:00",
+  "scraped_at_utc": "2026-08-21T07:51:14+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -11,15 +11,15 @@
     },
     {
       "Geriatrikenhet": "Danderydsgeriatriken",
-      "Uppdaterad senast": "2026-08-20 16:49",
+      "Uppdaterad senast": "2026-08-21 09:50",
       "Lediga vårdplatser": "0",
-      "Väntande godkända remisser": "0",
+      "Väntande godkända remisser": "1",
       "Meddelande": "Inget geografiskt upptagningsområde för slutenvården. Vi vårdar sköra äldre med behov av både akutsjukhusets resurser och det geriatriska teamet. Disponibla vårdplatser gäller både avd 32/GAVA och avd 37. Efter kl 21 sker inläggningar via medicinakuten."
     },
     {
       "Geriatrikenhet": "Erstageriatriken",
-      "Uppdaterad senast": "2026-08-21 07:05",
-      "Lediga vårdplatser": "12",
+      "Uppdaterad senast": "2026-08-21 09:16",
+      "Lediga vårdplatser": "14",
       "Väntande godkända remisser": "0",
       "Meddelande": "Innan akut inläggning kontaktas bakjour på tel. 08-714 68 17. Intagssamordnare nås vardagar mellan 8-16 på tel. 08-714 68 22. Jourtid prioriteras patienter från akut och ambulans. Mer om oss: Ersta Geriatrik"
     },
