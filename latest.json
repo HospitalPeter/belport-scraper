@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-08-26T05:29:13+00:00",
+  "scraped_at_utc": "2026-08-26T06:02:13+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -53,8 +53,8 @@
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-08-26 07:01",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-08-26 07:54",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "",
       "Meddelande": "Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
@@ -95,7 +95,7 @@
     },
     {
       "Geriatrikenhet": "Södertäljegeriatriken",
-      "Uppdaterad senast": "2026-08-25 22:33",
+      "Uppdaterad senast": "2026-08-26 07:39",
       "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "4",
       "Meddelande": "Direktintag dygnet runt till enkelrum! Från akutmottagning, ambulans, SÄBO, primärvård (efter kontakt med geriatrikkonsult/bakjour, tel. : 08 1232 5599)."
