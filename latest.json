@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-09-04T01:11:49+00:00",
+  "scraped_at_utc": "2026-09-04T05:58:23+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -25,8 +25,8 @@
     },
     {
       "Geriatrikenhet": "Handengeriatriken",
-      "Uppdaterad senast": "2026-09-03 22:25",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-09-04 06:59",
+      "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "0",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax: 08-58700611. Capio Geriatrik Handen"
     },
@@ -60,8 +60,8 @@
     },
     {
       "Geriatrikenhet": "Nynäshamnsgeriatriken",
-      "Uppdaterad senast": "2026-09-03 22:25",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-09-04 06:59",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "",
       "Meddelande": "Remisser från hemmet, SÄBO och ambulanser prioriteras. Fax 08-520 173 81. Capio Geriatrik Nynäshamn"
     },
@@ -74,7 +74,7 @@
     },
     {
       "Geriatrikenhet": "Sollentunageriatriken",
-      "Uppdaterad senast": "2026-09-03 19:01",
+      "Uppdaterad senast": "2026-09-04 05:08",
       "Lediga vårdplatser": "4",
       "Väntande godkända remisser": "0",
       "Meddelande": "Välkommen att remittera till oss via remiss i Take Care. För akuta inläggningar kontakta vår bakjour på telefon. Om remiss behöver faxas är faxnummer 08-51820007. Se mer information om oss via länken: Capio Geriatrik Sollentuna"
