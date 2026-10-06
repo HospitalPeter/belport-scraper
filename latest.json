@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-10-06T19:01:44+00:00",
+  "scraped_at_utc": "2026-10-06T22:58:50+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -39,22 +39,22 @@
     },
     {
       "Geriatrikenhet": "Jakobsbergsgeriatriken",
-      "Uppdaterad senast": "2026-10-06 15:30",
-      "Lediga vårdplatser": "3",
+      "Uppdaterad senast": "2026-10-06 22:43",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "0",
       "Meddelande": ""
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-10-06 15:58",
-      "Lediga vårdplatser": "8",
+      "Uppdaterad senast": "2026-10-06 23:12",
+      "Lediga vårdplatser": "2",
       "Väntande godkända remisser": "",
       "Meddelande": "Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-10-06 17:06",
-      "Lediga vårdplatser": "1",
+      "Uppdaterad senast": "2026-10-06 23:30",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "1",
       "Meddelande": "Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
@@ -81,8 +81,8 @@
     },
     {
       "Geriatrikenhet": "Stockholms Sjukhem Geriatrik Bromma",
-      "Uppdaterad senast": "2026-10-06 16:03",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-10-06 23:42",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "1",
       "Meddelande": "DIREKTINTAG DYGNET RUNT ÅRET RUNT! För akuta inläggningar kontakta Bakjour innan ni skickar remiss. Mer info om oss via Länk till Bromma: Stockholms Sjukhem Geriatrik Bromma"
     },
