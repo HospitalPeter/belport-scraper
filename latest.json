@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.medscinet.com/Belport/default.aspx?lan=1&avd=6",
-  "scraped_at_utc": "2026-10-15T00:33:50+00:00",
+  "scraped_at_utc": "2026-10-15T05:08:50+00:00",
   "rows": [
     {
       "Geriatrikenhet": "Dalengeriatriken",
@@ -46,15 +46,15 @@
     },
     {
       "Geriatrikenhet": "Löwetgeriatriken",
-      "Uppdaterad senast": "2026-10-14 20:32",
-      "Lediga vårdplatser": "2",
+      "Uppdaterad senast": "2026-10-15 03:32",
+      "Lediga vårdplatser": "0",
       "Väntande godkända remisser": "",
       "Meddelande": "Vid önskemål om direktinläggning från akutmottagningar, närakuten eller vårdcentraler önskas alltid telefonsamtal till bakjouren innan remissen skickas"
     },
     {
       "Geriatrikenhet": "Nackageriatriken",
-      "Uppdaterad senast": "2026-10-14 18:59",
-      "Lediga vårdplatser": "0",
+      "Uppdaterad senast": "2026-10-15 06:36",
+      "Lediga vårdplatser": "1",
       "Väntande godkända remisser": "",
       "Meddelande": "Endast få enkelrum på kliniken. Vid inläggning från akutmottagning önskas alltid telefonsamtal. Capio Geriatrik Nacka"
     },
